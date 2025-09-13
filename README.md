@@ -61,7 +61,7 @@ python brightspace_api.py
 
 The diagram below illustrates the roadblock I face with the official D2L API versus my custom implementation:
 
-![Architecture Diagram](img/architecture.png)
+<img src="img/architecture.png" alt="Architecture Diagram" width="600">
 
 **The Challenge:** I cannot access the official D2L Brightspace API due to institutional restrictions and administrative requirements.
 
